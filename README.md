@@ -1,1 +1,4 @@
 # DesginUppgift
+
+## Human Crossing
+![human crossing](https://user-images.githubusercontent.com/16019589/47313048-362c7600-d63e-11e8-9ce0-7ae41dac2749.png)
